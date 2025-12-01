@@ -1,0 +1,8 @@
+{
+  "name": "Advent of Code 2025",
+  "version": "l.o.l",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Birdsall"
+}
